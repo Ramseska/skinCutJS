@@ -1,12 +1,12 @@
 {
 	"name": "skincutjs",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"description": "A module designed to create an image from a minecraft skin. It is possible to create two variants of the image: in profile and only the head.",
 	"main": "index.js",
 	"scripts": {
 		"run": "node .\\index.js"
 	},
-	"author": "rams3ska",
+	"author": "Rams3ska",
 	"license": "MIT",
 	"dependencies": {
 		"image-pixels": "^2.2.2",
@@ -15,9 +15,11 @@
 	"keywords": [
 		"minecraft",
 		"skin",
-		"nodejs"
+		"nodejs",
+		"image"
 	],
 	"repository": {
-		"url": ""
+		"type": "GITHUB",
+		"url": "https://github.com/Rams3ska/skinCutJS"
 	}
 }
